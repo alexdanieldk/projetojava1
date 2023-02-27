@@ -8,6 +8,7 @@ public class PrimeiraClasseJava {
 		/*Escrevendo texto no console*/
 		System.out.println("Hello World");
 		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 
 }
