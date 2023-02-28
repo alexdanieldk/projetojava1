@@ -3,7 +3,7 @@ package cursojava.executavel;
 public class Pessoa {
 
 	private String nome;
-3
+
 	private String sobrenome;
 
 	private int idade;
