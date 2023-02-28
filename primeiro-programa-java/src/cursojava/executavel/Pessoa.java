@@ -11,6 +11,8 @@ public class Pessoa {
 	private Date dataNascimento;
 	
 	private Date dataNascimento2;
+	
+	private String cor;
 
 	public String getNome() {
 		return nome;
@@ -51,5 +53,15 @@ public class Pessoa {
 	public void setDataNascimento2(Date dataNascimento2) {
 		this.dataNascimento2 = dataNascimento2;
 	}
+
+	public String getCor() {
+		return cor;
+	}
+
+	public void setCor(String cor) {
+		this.cor = cor;
+	}
+	
+	
 	
 }
